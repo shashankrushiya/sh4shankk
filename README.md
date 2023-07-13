@@ -5,7 +5,7 @@
 - How to reach me, its just simple. Mail me on shashankrushiya@gmail.com
 
 
-- Tech Stack: Python  Automation  OracleSQL  MySQL  NumPy  Postman  Jira   
+- Tech Stack: Python  Resquests  Test-Automation  OracleSQL  MySQL  NumPy  Postman  Jira   
 
 <!---
 sh4shankk/sh4shankk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
