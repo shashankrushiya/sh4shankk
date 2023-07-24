@@ -2,8 +2,6 @@
 - I’m interested in Python, Artificial Intelligence, Automation and Algorithms.
 - I’m currently learning Machine Learning and looking forward to expand my knowledge on deep learning.
 - I’m looking to collaborate on Python based projects.
-- How to reach me, its just simple. Mail me on shashankrushiya@gmail.com
-
 
 - Tech Stack: Python  Requests  Test-Automation  OracleSQL  MySQL  NumPy  Postman  Jira   
 
