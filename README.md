@@ -1,8 +1,9 @@
-- Hi, I’m @shashankrushiya
-- I’m interested in Python, API's, Artificial Intelligence, Automation and Algorithms.
-- I’m currently learning Machine Learning and looking forward to expand my knowledge on deep learning.
-- I’m looking to collaborate on Python based projects.
-
+👨‍💻 Software Engineer | AWS Enthusiast | Python Automator
+📝 Blogger on Medium covering Startups, Tech Trends, Marketing, and more.
+💡 Turning ideas into code and automation.
+☁️ Obsessed with AWS cloud solutions, and always up for optimizing workflows with Python scripts.
+💬 Let’s chat about social media, technology, or how to scale startups using the latest engineering insights.
+🚀 Building the future, one commit at a time!
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=flat)
