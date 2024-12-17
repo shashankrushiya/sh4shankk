@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Software Engineer | AWS Enthusiast | Python Automator<br>📝 Blogger on Medium covering Startups, Tech Trends, Marketing, and more.<br>💡 Turning ideas into code and automation.<br>☁️ Obsessed with AWS cloud solutions, and always up for optimizing workflows with Python scripts.<br>💬 Let’s chat about social media, technology, or how to scale startups using the latest engineering insights.<br>🚀 Building the future, one commit at a time!
+👨‍💻 Python Engineer<br>📝 Blogger on Medium covering Startups, Tech Trends, Marketing, and more.<br>💡 Turning ideas into code and automation.<br>☁️ Obsessed with AWS cloud solutions, and always up for optimizing workflows with Python scripts.<br>💬 Let’s chat about social media, technology, or how to scale startups using the latest engineering insights.<br>🚀 Building the future, one commit at a time!
 
 
 ## 🌐 Socials:
